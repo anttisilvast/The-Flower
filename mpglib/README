@@ -2,6 +2,8 @@ MP3 library
 -----------
 Version 0.2
 
+Copyright (c) 1995,1996,1997 by Michael Hipp
+
 This decoder is a 'light' version (thrown out all unnecessay parts)
 from the mpg123 package. I made this for a company.
 
