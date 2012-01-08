@@ -1,0 +1,31 @@
+The Flower
+**********
+
+The Flower is a small C program that syncs a 3D visual to Fourier analysis of MP3 music. It uses gcc + mpglib + OpenGL for visuals and compiles in 
+Linux. The demo is derived from a broader non-released VJ platform, which has been used e.g. at the Koneisto, piksel.no, Pixelache and ISEA
+festivals.
+
+You can try this demo with the two included songs Track1.mp3 and Track2.mp3. 
+
+Installation and use:
+********************
+
+1. A binary called "act" is included, compiled for Intel Linux. 
+
+2. To compile your own version, type make
+
+3. To use, type:
+   
+     ./act <song_name.mp3>
+
+   For fullscreen mode:
+
+     ./act <song_name.mp3> -f 
+
+For compiling you need to have the OpenGL libraries and SDL installed. 
+
+Included libraries
+******************
+
+- Mpeg Layer-3 audio decoder, copyright (c) 1995,1996,1997 by Michael Hipp
+- The mpglib wrapper by Markku Reunanen, 2005.
