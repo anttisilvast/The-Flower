@@ -1,6 +1,8 @@
 The Flower
 **********
 
+By Antti Silvast, 2002, 2003, 2004, 2005, 2012
+
 The Flower is a small C program that syncs a 3D visual to Fourier analysis of MP3 music. It uses gcc + mpglib + OpenGL 
 and compiles in Linux. The  demo is derived from a broader non-released VJ platform, which has been used e.g. at 
 the Koneisto, piksel.no, Pixelache and ISEA festivals.
