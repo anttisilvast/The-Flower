@@ -29,5 +29,5 @@ For compiling you need to have the OpenGL libraries and SDL installed.
 Included libraries
 ******************
 
-- Mpeg Layer-3 audio decoder, copyright (c) 1995,1996,1997 by Michael Hipp
+- Mpeg Layer-3 audio decoder, copyright (c) 1995, 1996, 1997 by Michael Hipp
 - The mpglib wrapper by Markku Reunanen, 2005.
