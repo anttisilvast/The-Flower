@@ -5,7 +5,7 @@ By Antti Silvast, 2002, 2003, 2004, 2005, 2012
 
 The Flower is a small C program that syncs a 3D visual to Fourier analysis of MP3 music. It uses gcc, mpglib and OpenGL libraries and compiles in Linux. The demo is derived from a broader non-released VJ platform, which has been used e.g. at the Koneisto, piksel.no, Pixelache and ISEA festivals.
 
-While not being a comprehensive VJ'ing or visualization framework, the routine demonstrates the building blocks of   music visualization: that is to say, real-time 3D graphics, Fourier analysis and the link between these two. The example is especially geared towards C programmers who would like to make their own OpenGL visuals. 
+While not being a comprehensive VJ'ing or visualization framework, the routine demonstrates the building blocks of music visualization: that is to say, real-time 3D graphics, Fourier analysis and the link between these two. The example is especially geared towards C programmers who would like to start to make their own OpenGL visuals with relatively small efforts. 
 
 You can try the demo with the included song Track1.mp3. 
 
